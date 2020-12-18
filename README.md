@@ -21,7 +21,6 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Comes with it's own guide to learn the art of google dorks.
 
 ![Algorithm schema](images/grawler2.png)
-
 ![Algorithm schema](images/grawler3.png)
 
 * Built-in feature to use proxy (just incase google blocks you)
