@@ -39,4 +39,4 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Download the ZIP file
 * Download XAMPP server
 * Move the folder to htdocs folder in XAMPP
-* Navigate to URL http://localhost/grawler 
+* Navigate to http://localhost/grawler 
