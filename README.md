@@ -11,7 +11,7 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 * [Sample Result](#sample-result)
 * [Captcha Issue](#Captcha-issue)
 * [Solution](#Solution)
-* [How to contribute ?](#How-to-contribute-?)
+* [How to contribute ?](#How-to-contribute?)
 * [Contact Me](#Contact-me)
 
 ## General info 
