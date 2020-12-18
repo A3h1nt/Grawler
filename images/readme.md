@@ -1,1 +1,1 @@
-Contains images for the project .
+Images for the project description.
