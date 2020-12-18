@@ -1,1 +1,1 @@
-This directory contains results of all the scans that were run during Grawler's trial.
+This directory contains few of the filtered out results which were collected during the trial phase of Grawler.
