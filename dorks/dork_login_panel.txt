@@ -1,0 +1,8 @@
+intitle:login page
+inurl:admin
+inurl:/admin/login.asp
+inurl:admin.php
+inurl:login.php
+inurl:login.aspx | admin.aspx | login.html | admin.html
+0
+              

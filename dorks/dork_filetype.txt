@@ -1,0 +1,12 @@
+filetype:xls
+filetype:pdf
+filetype:xlsx
+filetype:doc
+filetype:docx
+ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml)+intext:confidential 
+filetype:url+inurl:"ftp://"+inurl:";@"
+filetype:xls+inurl:"email.xls"
+intext:"#mysql dump"+filetype:sql
+"robots.txt" "Disallow:" filetype:txt
+"your password is" filetype:log
+0
