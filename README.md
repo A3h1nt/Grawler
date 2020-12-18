@@ -14,10 +14,10 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 ## Features
 * Supports multiple search engines (Google,Yahoo,Bing)
 * Comes with files containing dorks which are categorized in three categories as of now.
-	*Filetypes
-	*Login Pages
-	*SQL Injections
-	*My_dorks (This file is intentionally left blank for users to add their own list of dorks)
+	* Filetypes
+	* Login Pages
+	* SQL Injections
+	* My_dorks (This file is intentionally left blank for users to add their own list of dorks)
 * Comes with it's own guide to learn the art of google dorks.
 
 ![Algorithm schema](images/grawler2.png)
