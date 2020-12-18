@@ -40,3 +40,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Download XAMPP server
 * Move the folder to htdocs folder in XAMPP
 * Navigate to http://localhost/grawler 
+
+## Demo
+
+![Algorithm schema](images/grawler5.mov)
