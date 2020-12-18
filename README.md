@@ -43,4 +43,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Navigate to http://localhost/grawler 
 
 ## Demo
-* [How to run Grawler ?](https://youtu.be/17f82HCjEPQ)
+* [How to run Grawler?](https://youtu.be/17f82HCjEPQ)
+* [How to setup proxy in Grawler?](https://youtu.be/appnamqU2N4)
+* [How to run Grawler in manual mode?](https://youtu.be/K8Ela10aYGw)
+
