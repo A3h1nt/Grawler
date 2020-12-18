@@ -8,6 +8,7 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 * [Features](#features)
 * [Setup](#setup)
 * [Demo](#demo)
+* [Sample Result](#sample-result)
 * [Captcha Issue](#Captcha-issue)
 * [Solution](#Solution)
 
@@ -49,6 +50,10 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * There are several ways to use proxy , i have personally used [Scrapeapi](https://www.googleadservices.com/pagead/aclk?sa=L&ai=CxFednC3cX__nFZKAyAOYypCQBv2hl45g5ayIi6YJ2_DCne4NCAAQASC5VCgCYOWa6YPgDqABhf3l_ALIAQHIA9ggqgRLT9AJZni2lVPYQ4BuUjGAlL0mdFFpk1LhyJLZV3e6MZ5e24eduMdgpzLrAfjsK5SkPiM-HZlWrCOvg0SoO03szjdiKxi-qmQxiHwqwAT919OSygGABZBOoAZRgAfjgpqDAYgHAZAHAagHpr4bqAfw2RuoB_LZG6gH89EbqAfu0huoB8rcG7AIAdIIBRACIIQBmgkbaHR0cHM6Ly93d3cuc2NyYXBlcmFwaS5jb20vsQkSxVcm5sQvbbkJEsVXJubEL234CQGYCwGqDAIIAbgMAYgUAw&ae=2&ved=2ahUKEwil6dW31tbtAhVmgtgFHSObAWIQ0Qx6BAgIEAE&dct=1&dblrd=1&sival=AF15MEA-raP21ZHDY_iwHCyJAfS_Qx5PfncSr8fDJLagF6iFE3veo3RLKzEWMeXgg_Go1snwcjfIexZCfbZvFtR128lUHZs01OEFIuLtNZeHWxucoaY2FoMdG1NYDtqF2P0HT4UWmx0Xx6MB7aW2v3Xr30wAvNjAMg&sig=AOD64_3BCrWb701eDmLA0IbNNW2bpWi95A&adurl=https://www.scraperapi.com/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Ds_branded%26utm_term%3Dscraperapi) because they give free API calls without any credit card information or anything, and you can even get more API calls for free.
 	* [How to setup proxy in Grawler?](https://youtu.be/appnamqU2N4)
 * [How to run Grawler in manual mode?](https://youtu.be/K8Ela10aYGw)
+
+## Sample Result
+![Algorithm schema](images/grawler6.png)
+
 
 ## Captcha Issue
 Sometimes google captcha can be an issue, because google rightfully detects the bot and tries to block it, there are ways that I've already tried to avoid captcha like :
