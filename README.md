@@ -42,5 +42,4 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Navigate to http://localhost/grawler 
 
 ## Demo
-
-![Algorithm schema](images/grawler5.mov)
+[How to run Grawler ?](https://youtu.be/17f82HCjEPQ)
