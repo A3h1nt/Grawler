@@ -43,4 +43,4 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 
 ## Demo
 
-![Algorithm schema](images/grawler5.mov)
+![Algorithm schema](images/grawler5.mp4)
