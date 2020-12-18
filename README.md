@@ -1,5 +1,5 @@
 # Grawler
-Grawler is a tool written in php which comes with a web interface to automate the task of using google dorks with many other functionalities .
+Grawler is a tool written in php which comes with a web interface to automate the task of using google dorks with many other functionalities.
 
 ![Algorithm schema](images/grawler1.png)
 
