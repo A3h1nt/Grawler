@@ -75,7 +75,9 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 * Report Bugs
 * Add new features and functionalities 
 * Workaround the captcha issue
+* Create a docker image(basically work on portability and usability)
 * Suggestions 
+
 
 ## Contact Me
 You can contact me here [A3h1nt](https://twitter.com/A3h1nt) regarding anything.
