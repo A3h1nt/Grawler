@@ -37,8 +37,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 
 
 ## Setup
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* Download the ZIP file
+* Download XAMPP server
+* Move the folder to htdocs folder in XAMPP
+* Navigate to URL http://localhost/grawler 
