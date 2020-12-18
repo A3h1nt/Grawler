@@ -31,7 +31,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Saves all the results in a single file (name needs to be specified in the input filed).
 * Grawler can run in four different modes 
 	* Automatic mode: 
-   		Where the grawler uses dorks present in a file and stores the result
+   		Where the grawler uses dorks present in a file and stores the result.
 	* Automatic mode with proxy enabled
 	* Manual mode:  
    		This mode is for users who only wants to test a single dork against a domain.
