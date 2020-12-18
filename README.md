@@ -70,4 +70,4 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 * Any new way to solve the captcha issue
 
 ## Contact
-You can contact me at [A3h1nt][https://twitter.com/A3h1nt]
+You can contact me here [A3h1nt](https://twitter.com/A3h1nt)
