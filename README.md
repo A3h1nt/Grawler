@@ -60,13 +60,13 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 ## Captcha Issue
 Sometimes google captcha can be an issue, because google rightfully detects the bot and tries to block it, there are ways that I've already tried to avoid captcha like :
 * Using different user-agent headers and IP in a round-robin algorithm.
-	It works but it gives a lot of garbage URLs that are not of any use and in addition to that it's also slow, so I removed that feature.
+	* It works but it gives a lot of garbage URLs that are not of any use and in addition to that it's also slow, so I removed that feature.
 * Using free proxy servers 
-	Which are too slow and often blocked due to the fact that a lot of people use these free proxy servers for scraping.
+	* Which are too slow and often blocked due to the fact that a lot of people use these free proxy servers for scraping.
 * Sleep function
-	This works up to some extent so I have incorporated it in the code.
+	* This works up to some extent so I have incorporated it in the code.
 * Tor Network
-	Nope, doesn't work every time I tried it a beautiful captcha was presented, so I removed this functionality too.
+	* Nope, doesn't work every time I tried it a beautiful captcha was presented, so I removed this functionality too.
 ## Solution
 * The best solution that I have found is to sign up for a proxy service and use it, it gives good results with less garbage URL's but it can be slow sometimes.
 * Use a VPN.
