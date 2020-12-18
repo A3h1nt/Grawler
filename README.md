@@ -28,7 +28,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 
 ![Algorithm schema](images/grawler4.png)
 
-* Saves all the results in a single file (name needs to be specified in the input filed).
+* Saves all the scraped URL's in a single file (name needs to be specified in the input filed with extension .txt).
 * Grawler can run in four different modes 
 	* Automatic mode: Where the grawler uses dorks present in a file and stores the result.
 	* Automatic mode with proxy enabled
