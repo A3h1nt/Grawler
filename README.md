@@ -11,7 +11,7 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 * [Sample Result](#sample-result)
 * [Captcha Issue](#Captcha-issue)
 * [Solution](#Solution)
-* [How to contribute ?](#How-to-contribute?)
+* [Contribute](#contribute)
 * [Contact Me](#Contact-me)
 
 ## General info 
@@ -71,7 +71,7 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 * The best solution that I have found is to sign up for a proxy service and use it, it gives good results with less garbage URL's but it can be slow sometimes.
 * Use a VPN.
 
-## How to contribute ?
+## Contribute
 * Report Bugs
 * Add new features and functionalities 
 * Workaround the captcha issue
