@@ -7,6 +7,7 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 * [General info](#general-info)
 * [Features](#features)
 * [Setup](#setup)
+* [Demo](#demo)
 
 ## General info 
 Grawler aims to automate the task of using google dorks with a web interface, the main idea is to provide simple yet powerful tool which can be used by anyone, GRAWLER comes pre-loaded with the following features.
