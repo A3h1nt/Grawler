@@ -67,7 +67,8 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 ## How you can contribute ?
 * Report Bugs
 * Add new features and functionalities 
-* Any new way to solve the captcha issue
+* Workaround the captcha issue
+* Suggestions 
 
 ## Contact
-You can contact me here [A3h1nt](https://twitter.com/A3h1nt)
+You can contact me here [A3h1nt](https://twitter.com/A3h1nt) regarding anything.
