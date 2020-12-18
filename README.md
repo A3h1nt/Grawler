@@ -1,4 +1,4 @@
-![Algorithm schema](/grawler1.png)
+![Algorithm schema](images/grawler1.png)
 # Grawler
 Grawler is a tool written in php which comes with a web interface to automate the task of using google dorks with many other functionalities .
 
