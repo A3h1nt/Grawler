@@ -74,9 +74,10 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 ## Contribute
 * Report Bugs
 * Add new features and functionalities 
+* Add more effective google dorks (which actually works)
 * Workaround the captcha issue
 * Create a docker image(basically work on portability and usability)
-* Suggestions 
+* Suggestions
 
 
 ## Contact Me
