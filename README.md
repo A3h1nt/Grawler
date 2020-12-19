@@ -1,4 +1,4 @@
-# Grawler
+# Grawler - Best google dorks automation tool  
 Grawler is a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file.
 
 ![Algorithm schema](images/grawler1.png)
