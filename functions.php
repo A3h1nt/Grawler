@@ -62,7 +62,7 @@ else
 
   preg_match_all("!https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)!",$result,$fmatch);
 
-$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it waaas associative array , it pointed us to the first array where our links are stored.
+$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it was associative array , it points to the first array where links are stored.
 file_put_contents($file,"\n---------------------------> DORK: ".$dorks[$i-1]." <----------------------------\n\n",FILE_APPEND);
 for($j=1;$j<sizeof($value);$j++) 
 {
@@ -78,8 +78,8 @@ for($j=1;$j<sizeof($value);$j++)
   }
   else
   {
-       strpos($value[$j],$search);//ignore the links where the search name is not present
-       $value[$j] = urldecode($value[$j]); //url decode before showing
+       strpos($value[$j],$search);//ignore the links where the searched domain name is not present
+       $value[$j] = urldecode($value[$j]); //decode URL before showing
        $nv[$j] = rtrim($value[$j],"&amp"); //remove & operator present at the end of each link(at the extreme right)
        file_put_contents($file,$nv[$j]."\n",FILE_APPEND);
        //echo "<br>"."<a href='".$nv[$j]."' >".$nv[$j]."<br>";//to display links on the webpage itself
@@ -127,7 +127,7 @@ curl_setopt($ch, CURLOPT_PROXY,$proxy);
 
 curl_setopt($ch, CURLOPT_ENCODING,'identity');   //this enables decoding of response eg:identity , deflate,gzip.
 
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  //it will not print directly for that we need .
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  
 
 curl_setopt($ch, CURLOPT_HEADER, false);         //to ignore the header value in response
 
@@ -151,7 +151,7 @@ else
 
   preg_match_all("!https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)!",$result,$fmatch);
 
-$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it waas associative array , it pointed us to the first array where our links are stored.
+$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it was associative array , it points to the first array where links are stored.
 file_put_contents($file,"\n---------------------------> DORK: ".$dorks[$i]." <----------------------------\n\n",FILE_APPEND);
 for($j=1;$j<sizeof($value);$j++) 
 {
@@ -167,7 +167,7 @@ for($j=1;$j<sizeof($value);$j++)
   }
   else
   {
-       strpos($value[$j],$search);//ignore the links where the search name is not present
+       strpos($value[$j],$search);//ignore the links where the domain name is not present
        $value[$j] = urldecode($value[$j]); //url decode before showing
        $nv[$j] = rtrim($value[$j],"&amp"); //remove & operator present at the end of each link(at the extreme right)
        file_put_contents($file,$nv[$j]."\n",FILE_APPEND);
@@ -232,7 +232,7 @@ curl_setopt($ch, CURLOPT_URL,$url = $search_eng.$search."+".$dorks[$i-1]);//sett
 
 curl_setopt($ch, CURLOPT_ENCODING,'identity');   //this enables decoding of response eg:identity , deflate,gzip.
 
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  //it will not print directly for that we need .
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
 
 curl_setopt($ch, CURLOPT_HEADER, false);         //to ignore the header value in response
 
@@ -256,7 +256,7 @@ else
 
   preg_match_all("!https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)!",$result,$fmatch);
 
-$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it waaas associative array , it pointed us to the first array where our links are stored.
+$value = reset($fmatch);//reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it was associative array , it points to the first array where links are stored.
 file_put_contents($file,"\n---------------------------> DORK: ".$dorks[$i-1]." <----------------------------\n\n",FILE_APPEND);
 for($j=1;$j<sizeof($value);$j++) 
 {
@@ -272,8 +272,8 @@ for($j=1;$j<sizeof($value);$j++)
   }
   else
   {
-       strpos($value[$j],$search);//ignore the links where the search name is not present
-       $value[$j] = urldecode($value[$j]); //url decode before showing
+       strpos($value[$j],$search);//ignore the links where the domain name is not present
+       $value[$j] = urldecode($value[$j]); //URL before showing
        $nv[$j] = rtrim($value[$j],"&amp"); //remove & operator present at the end of each link(at the extreme right)
        file_put_contents($file,$nv[$j]."\n",FILE_APPEND);
        //echo "<br>"."<a href='".$nv[$j]."' >".$nv[$j]."<br>";//to display links on the webpage itself
@@ -336,7 +336,7 @@ else
 
   preg_match_all("!https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)!",$result,$fmatch);
 
-$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it waaas associative array , it pointed us to the first array where our links are stored.
+$value = reset($fmatch); //reset function moves the internal pointer to the first element of the array.//returns the first element of array , since here it was associative array , it points to the first array where links are stored.
 file_put_contents($file,"\n---------------------------> DORK: ".$manual." <----------------------------\n\n",FILE_APPEND);
 for($j=1;$j<sizeof($value);$j++) 
 {
@@ -352,7 +352,7 @@ for($j=1;$j<sizeof($value);$j++)
   }
   else
   {
-       strpos($value[$j],$search);//ignore the links where the search name is not present
+       strpos($value[$j],$search);//ignore the links where the domain is not present
        $value[$j] = urldecode($value[$j]); //url decode before showing
        $nv[$j] = rtrim($value[$j],"&amp"); //remove & operator present at the end of each link(at the extreme right)
        file_put_contents($file,$nv[$j]."\n",FILE_APPEND);
