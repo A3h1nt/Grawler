@@ -12,7 +12,9 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 * [Captcha Issue](#Captcha-issue)
 * [Solution](#Solution)
 * [Contribute](#contribute)
+* [Important](#important)
 * [Contact Me](#Contact-me)
+
 
 ## General info 
 Grawler aims to automate the task of using google dorks with a web interface, the main idea is to provide a simple yet powerful tool which can be used by anyone, Grawler comes pre-loaded with the following features.
@@ -79,6 +81,9 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 * Create a docker image(basically work on portability and usability)
 * Suggestions
 
+
+## Important
+Grawler is in it's development stage right now, if anyone wants to work in the development phase, ping me on twitter.
 
 ## Contact Me
 You can contact me here [A3h1nt](https://twitter.com/A3h1nt) regarding anything.
