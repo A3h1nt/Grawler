@@ -221,7 +221,7 @@ function web_grawl($search,$search_eng,$file,$dork_type)
     file_put_contents($file,"#################### DORKS FOR ".$target." ###############"."\n",FILE_APPEND);
     $ch = curl_init();
     $search = urlencode($target);
-    for($i=1;$i<=sizeof($dorks);$i++)
+    for($i=1;$i<sizeof($dorks);$i++)
     {
 
 
