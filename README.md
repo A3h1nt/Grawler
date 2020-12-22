@@ -83,7 +83,7 @@ Sometimes google captcha can be an issue, because google rightfully detects the 
 
 
 ## Important
-Grawler is in it's development stage right now, if anyone wants to work in the development phase, ping me on twitter.
+Grawler is in it's development stage right now, if anyone wants to work in the development stage, ping me on twitter.
 
 ## Contact Me
 You can contact me here [A3h1nt](https://twitter.com/A3h1nt) regarding anything.
