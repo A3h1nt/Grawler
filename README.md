@@ -4,6 +4,8 @@ Grawler is a tool written in PHP which comes with a web interface that automates
 ## Grawler is in it's development stage right now, the code will work but you might encounter some bugs, i'll upload the new version once bugs are fixed.
 (Looking for CSS developer to work on the interface, if you are a CSS developer, ping me at [A3h1nt](https://twitter.com/A3h1nt) )
 
+## A surprise is coming for ya'll !
+
 ![Algorithm schema](images/grawler1.png)
 
 ## Table of contents
