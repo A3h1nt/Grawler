@@ -1,5 +1,10 @@
 # Grawler - v1.0
-![Logo](/images/grawler.png)
+
+<p align="center">
+  <img width="460" height="300" src="/images/grawler.png">
+</p>
+
+
 Grawler is the best tools ever made for automating google dorks it's a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file, version 1.0 is the more powerful than ever supporting multiple proxies. ( Read in functions )
 
 ## Table of contents
