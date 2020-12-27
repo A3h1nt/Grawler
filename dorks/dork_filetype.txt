@@ -4,5 +4,6 @@ filetype:xlsx
 filetype:doc
 filetype:docx
 Filetype:php
-Filetype: txt | Filetype: xml
-Filetype:log “PHP Parse error” | “PHP Warning” | “PHP Error”
+Filetype:txt 
+Filetype:xml
+Filetype:log 
