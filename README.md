@@ -55,9 +55,9 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Results will be stored in same directory
 
 ## Demo
-* How to setup grawler ? ( coming soon )
-* How to setup proxy in grawler ? ( coming soon ) 
-* How to use depth feature in manual mode ? ( coming soon )
+* [How to run grawler in automatic mode?](https://youtu.be/mJq8tcCWvm4)
+* [How to run grawler in manual mode ?](https://youtu.be/L5zdxb7QOFE) 
+
 
 ## Contribute
 * Report Bugs
