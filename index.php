@@ -44,7 +44,7 @@
 		{
 			if($_POST['search'] == NULL || $_POST['file'] == NULL )
 			{
-				echo "<h10><div style='color:#4fe1be'>Please fill out the empty fields 1</div><h10>";
+				echo "<h10><div style='color:#4fe1be'>Please fill out the empty fields !</div><h10>";
 				exit;
 			}
 			else
