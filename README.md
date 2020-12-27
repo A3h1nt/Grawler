@@ -1,7 +1,7 @@
 # Grawler - v1.0
 
 <p align="center">
-  <img width="460" height="300" src="/images/grawler.png">
+  <img width="600" height="300" src="/images/grawler.png">
 </p>
 
 
