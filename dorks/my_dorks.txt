@@ -1,6 +1,0 @@
-intitle:”index of” api_key'
-intitle:”index of” api key'
-inurl:’@yahoo.co’
-inurl:’@live.com’
-inurl:’@gmail.com’
-0
