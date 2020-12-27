@@ -26,7 +26,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 		* [ScraperAPI](https://www.scraperapi.com)
 		* [Scrapingdog](https://www.scrapingdog.com)
 		* [Zenscrape](https://zenscrape.com)
-* Grawler now supports two different modes, but with v1.0, those four modes have become much more powerful.
+* Grawler now supports two different modes.
     * Automatic Mode : Automatic mode now comes with many different dork files and supports multiple proxies to deliver a smooth experience.
     * Manual Mode : The manual mode has become more powerful with the Depth feature, now you can select the number of pages you want to scrape results from, proxy feature is also supported by manual mode.
 * Dorks are now categorized in the following categories:
