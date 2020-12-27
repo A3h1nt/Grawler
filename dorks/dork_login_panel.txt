@@ -1,0 +1,8 @@
+inurl:admin.php | inurl:admin.html | Inurl:admin.aspx | inurl:admin.asp | inurl:admin.htm
+inurl:login.php | inurl:login.html | inurl:login.aspx
+intitle:"login"
+inurl:login.seam
+inurl:"forgotpassword.php" | inurl:"forgotpassword.aspx" | inurl:”forgotpassword.asp” | inurl:”forgotpassword.htm” | inurl:”forgotpassword.do” | inurl:”forgotpassword.jsf”
+inurl:signup | inurl:register | intitle:Signup
+
+              

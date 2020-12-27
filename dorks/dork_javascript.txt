@@ -1,0 +1,3 @@
+inurl:wp-content/plugins/async-javascript
+intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+

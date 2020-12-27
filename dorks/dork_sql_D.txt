@@ -1,0 +1,11 @@
+*.php?include=
+*inc*.php?adresa=
+*inc*.php?base_dir=
+*inc*.php?body=
+*inc*.php?c=
+*inc*.php?category=
+*inc*.php?doshow=
+*inc*.php?ev=
+*inc*.php?get=
+*inc*.php?i=
+

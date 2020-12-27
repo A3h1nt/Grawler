@@ -1,0 +1,7 @@
+site:com jdbc:postgresql://localhost:   username   password ext:yml | ext:java -git -gitlab
+jdbc:sqlserver://localhost:1433   username   password ext:yml | ext:java
+jdbc:oracle://localhost:   username   password ext:yml | ext:java -git -gitlab
+jdbc:mysql://localhost:3306/   username   password ext:yml | ext:java -git -gitlab
+Intext:jdbc.oracle filetype:java
+inurl:CGI/Java/Serviceability?adapter=device.statistics.device
+ConnectionTest.java filetype:html

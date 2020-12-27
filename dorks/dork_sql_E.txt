@@ -1,0 +1,10 @@
+*inc*.php?inc=
+*inc*.php?include=
+*inc*.php?j=
+*inc*.php?k=
+*inc*.php?ki=
+*inc*.php?left=
+*inc*.php?m=
+*inc*.php?menu=
+*inc*.php?modo=
+*inc*.php?open=

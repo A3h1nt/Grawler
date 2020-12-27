@@ -1,0 +1,5 @@
+about.php?cartID=
+aboutbook.php?id=
+aboutchiangmai/details.php?id=
+aboutprinter.shtml
+abroad/page.php?cid=

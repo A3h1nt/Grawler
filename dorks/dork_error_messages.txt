@@ -1,0 +1,8 @@
+intext:"Fatal error: Call to undefined function" -reply -the -next
+intext:"Error Occurred While Processing Request"
+inurl:"/WebResource.axd?d=" AND intext:Error
+inurl:("/storage/logs/laravel.log") AND intext:("local.ERROR" | "NULL.ERROR" | "EMERGENCY:")
+warning "error on line" php sablotron
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+"Fatal NI connect error" ", connecting to:" ext:log
+inurl:”*error*” | intitle:”*error*” | intext:”*error*” | alligntext:”*error*

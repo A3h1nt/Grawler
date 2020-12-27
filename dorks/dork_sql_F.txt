@@ -1,0 +1,9 @@
+*inc*.php?pg=
+*inc*.php?rub=
+*inc*.php?sivu=
+*inc*.php?start=
+*inc*.php?str=
+*inc*.php?to=
+*inc*.php?type=
+*inc*.php?y=
+about_us.php?id=

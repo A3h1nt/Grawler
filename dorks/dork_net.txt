@@ -1,0 +1,4 @@
+intext:"ASP.NET_SessionId" "data source="
+ASP.login_aspx "ASP.NET_SessionId"
+inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net
+
