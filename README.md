@@ -37,7 +37,10 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * API keys for proxies are first validated and added to the file.
 * Manual mode allows users to go upto depth 4, but i'd recommend to use depth 2 or 3 because the best results are usually on the initial pages.
 * Grawler comes with it's own guide to learn google dorks.
-* The results are stored in a file ( filename needs to be specified with txt extension )
+* The results are stored in a file ( filename needs to be specified with txt extension ).
+* URL scraping is better than ever with no garbage URL's at all.
+* Three different search engines are supported (Bing, Google, Yahoo), so if one blocks you another one is available.
+* Multiple proxy with multiple search engines delivers the best experience ever.
 
 ## Setup
 * Download the ZIP file
