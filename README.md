@@ -22,7 +22,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 	
 ## Features
 * The biggest issue faced by tools that automate google dorks is CAPTCHA, but with Grawler, CAPTCHA is not an issue anymore, Grawler comes with a proxy feature which supports three different proxies.
-	* Supported Proxies ( The mentioned proxies need you to signup and get the API key, without any credit card information and gives you around 1000 free API 	     calls )
+	* Supported Proxies ( The mentioned proxies need you to signup and get the API key, without any credit card information and give you around one thousand                   	      free API calls each )
 		* [ScraperAPI](https://www.scraperapi.com)
 		* [Scrapingdog](https://www.scrapingdog.com)
 		* [Zenscrape](https://zenscrape.com)
@@ -40,11 +40,11 @@ Grawler aims to automate the task of using google dorks with a web interface, th
     * SQL Injection (7 different files with different dorks)
     * My_dorks file for users to add their own dorks.
 * API keys for proxies are first validated and added to the file.
-* Manual mode allows users to go upto depth 4, but i'd recommend to use depth 2 or 3 because the best results are usually on the initial pages.
+* Manual mode allows users to go up to depth 4, but I'd recommend using depth 2 or 3 because the best results are usually on the initial pages.
 * Grawler comes with it's own guide to learn google dorks.
 * The results are stored in a file ( filename needs to be specified with txt extension ).
 * URL scraping is better than ever with no garbage URL's at all.
-* Three different search engines are supported (Bing, Google, Yahoo), so if one blocks you another one is available.
+* Grawler supports three different search engines are supported (Bing, Google, Yahoo), so if one blocks you another one is available.
 * Multiple proxy with multiple search engines delivers the best experience ever.
 
 ## Setup
@@ -62,7 +62,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 ## Contribute
 * Report Bugs
 * Add more effective google dorks (which actually works)
-* Create a docker image(basically work on portability and usability)
+* Work on portability
 * Suggestions
 
 ## Contact Me
