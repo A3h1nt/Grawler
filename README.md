@@ -22,7 +22,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 	
 ## Features
 * The biggest issue faced by tools that automate google dorks is CAPTCHA, but with Grawler, CAPTCHA is not an issue anymore, Grawler comes with a proxy feature which supports three different proxies.
-	* Supported Proxies ( The mentioned proxies need you to signup and get the API key, without any credit card information and gives you around 1000 free API 	     calls ).
+	* Supported Proxies ( The mentioned proxies need you to signup and get the API key, without any credit card information and gives you around 1000 free API 	     calls )
 		* [ScraperAPI](https://www.scraperapi.com)
 		* [Scrapingdog](https://www.scrapingdog.com)
 		* [Zenscrape](https://zenscrape.com)
