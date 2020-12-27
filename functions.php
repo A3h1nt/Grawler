@@ -19,11 +19,6 @@ function web_grawl_proxy_en($search,$search_eng,$file,$dork_type,$proxy_name)
 	//splitting the file elements into an array on the basis of lines 
 	 $dorks = explode("\n", fread($fp, filesize($filename)));
   }
-  if(!filesize($fp))
-	{
-		echo "<div style =color:red> File is empty ! </div>";
-		exit;
-	}
 	else
 	{
 		echo "ERROR IN OPENING FILE ";
@@ -572,11 +567,6 @@ function web_grawl($search,$search_eng,$file,$dork_type)
 	if (!$fp) 
 	{
 		echo "<div style =color:red> Cannot open file ! </div>";
-		exit;
-	}
-	if(!filesize($fp))
-	{
-		echo "<div style =color:red> File is empty ! </div>";
 		exit;
 	}
 	else
