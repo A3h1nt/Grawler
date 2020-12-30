@@ -54,6 +54,15 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Navigate to http://localhost/grawler 
 * Results will be stored in same directory
 
+## Docker 
+
+* docker pull jas9reet/grawler
+* docker run -d -p 8080:80 jas9reet/grawler
+
+#### Application Access
+
+* YOUR-IP-ADDRESS:8080
+
 ## Demo
 * [How to run grawler in automatic mode?](https://youtu.be/mJq8tcCWvm4)
 * [How to run grawler in manual mode ?](https://youtu.be/L5zdxb7QOFE) 
