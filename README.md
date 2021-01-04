@@ -44,7 +44,7 @@ Grawler aims to automate the task of using google dorks with a web interface, th
 * Grawler comes with it's own guide to learn google dorks.
 * The results are stored in a file ( filename needs to be specified with txt extension ).
 * URL scraping is better than ever with no garbage URL's at all.
-* Grawler supports three different search engines are supported (Bing, Google, Yahoo), so if one blocks you another one is available.
+* Grawler supports three different search engines (Bing, Google, Yahoo), so if one blocks you another one is available.
 * Multiple proxy with multiple search engines delivers the best experience ever.
 
 ## Setup
