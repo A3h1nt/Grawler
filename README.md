@@ -4,6 +4,7 @@
 
 # Grawler - v1.0
 
+*This project is **not maintained anymore**.*
 
 Grawler is the best tool ever, made for automating google dorks it's a tool written in PHP which comes with a web interface that automates the task of using google dorks, scrapes the results, and stores them in a file, version 1.0 is the more powerful than ever supporting multiple proxies. ( Read in features )
 
